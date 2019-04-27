@@ -4,7 +4,7 @@
    npm install react-redux 
 4. modify index.js 
 
-key point to use redux: 
+key points and steps to use redux: 
 1. create store by createStore, use a reducer 
 2. create the reducer, define the actions by a switch 
 3. connect the UI elements with mapStateToProps and mapDispatchProps functions 
